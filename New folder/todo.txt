@@ -1,0 +1,2 @@
+Set "hello, user" text in navbar.
+Hide "users" button from non-admins. 

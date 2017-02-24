@@ -1,0 +1,35 @@
+.welcome{
+	font-size:10em;
+	background:white;
+	color:#262626;
+	padding:25px;
+	text-align: center;
+}
+
+.home{
+	font-size:8em;
+	background:#4d4d4d;
+	color:white;
+	padding:15px;
+	text-align: center;
+}
+
+body.ind{
+	background-color:#4d4d4d;
+}
+
+.indbuttons{
+	padding:15px;
+	align-content: center;
+	text-align: center;
+}
+
+.in{
+	padding:25px;
+}
+
+.center{
+	align-content: center;
+	text-align: center;
+}
+
